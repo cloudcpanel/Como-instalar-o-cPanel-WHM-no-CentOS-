@@ -9,8 +9,8 @@ WHM , que é o módulo da revenda de hospedagem , aonde pode-se configurar todo 
 cPanel , que é o módulo do cliente , aonde se pode criar bancos de dados, contas de e-mail, gerenciar arquivos, etc.
 A licença do cPanel tem um custo mensal. Isto varia de acordo com cada empresa. Licenças para servidores cloud (ou servidores VPS) são mais baratas do que as licenças para servidores dedicados. Primeiramente, precisaremos ter um servidor com acesso root (administrador), rodando Linux CentOS. Usaremos o Putty para realizar a conexão SSH ao servidor. Veja aqui como usar o Putty para se conectar ao servidor linux.
 
-# yum install -y gcc gcc-c++ gettext strace automake strace64 ;
-# yum install -y gdb bison libtool tar zip perl screen tcp_wrappers-devel wget ;
+## yum install -y gcc gcc-c++ gettext strace automake strace64 ;
+## yum install -y gdb bison libtool tar zip perl screen tcp_wrappers-devel wget ;
 
 Em seguida, realize os seguintes passos:
 # screen -S cpanel-install # Abre um novo terminal
