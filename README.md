@@ -38,3 +38,5 @@ man screenAo terminar a instalação, basta acessar o painel WHM pelo browser:
 http://IP-DO-SERVIDOR:2086/
 
 Caso ainda não possua uma licença do cPanel, você pode conseguir uma licença trial (por 15 dias) no site https://www.cpanel.net/store 
+
+https://cloudcpanel.com.br
